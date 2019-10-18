@@ -1,0 +1,55 @@
+html {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #f9fafc;
+    list-style: none;
+}
+
+main{
+    padding: 10px;
+}
+
+.button {
+    width: 100%;
+    background-color: #000;
+    color: #FFF;
+    padding: 12px;
+    border-radius: 20px;
+    display: inline-block;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+}
+
+.blackText {
+    color: black;
+    margin: 10px;
+}
+
+.greyText {
+    color: #69696a;
+    margin: 10px;
+} 
+
+p {
+    border-left: 3px solid #69696a;
+    padding-left: 10px;
+    font-size: 15px;
+    line-height: 1.5em;
+    margin-bottom: 20px;
+}
+
+a {
+    text-decoration: none;
+    width: 100vw;
+}
+
+h1 {
+    font-weight: normal;
+}
+
+li {
+    line-height: 2em;
+}
+
